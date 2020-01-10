@@ -28,8 +28,8 @@ h3 {
     margin-right: 20%;
 }
 
-.list {
-    font-weight: 500;
+.rap {
+    color: black;
 }
 
 .social {
@@ -46,7 +46,7 @@ h3 {
 
 .icons {
     text-align: center;
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 .banner {
