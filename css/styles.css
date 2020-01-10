@@ -7,3 +7,18 @@
 .name {
     text-align: center;
 }
+
+h3 {
+    text-align: center;
+}
+
+.projects{
+    text-align: center;
+    margin-right: 20%;
+}
+
+.social {
+    margin-top: 20%;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
