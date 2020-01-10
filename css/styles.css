@@ -1,10 +1,21 @@
-body {
-    background-image: url('img/pdx.jpeg');
+/* body {
+    background-image: url('../img/portland.jpeg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+     
+} */
+
+.container {
+    color: purple;
+    font-family: URW Chancery L, cursive;
 }
+
+
 
 .me { display: block; 
     margin-left: auto; 
-    margin-right: auto; 
+    margin-right: auto;
 }
 
 .name {
@@ -21,7 +32,7 @@ h3 {
 }
 
 .social {
-    margin-top: 30%;
+    margin-top: 38%;
     text-align: center;
     font-family: 'Courgette', cursive;
 }
@@ -34,3 +45,4 @@ h3 {
     text-align: center;
     margin-top: 15%;
 }
+
