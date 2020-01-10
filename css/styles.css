@@ -1,17 +1,28 @@
-/* body {
-    background-image: url('../img/portland.jpeg');
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: scroll;
-     
-} */
+
+
+.main-header {
+    text-align: center;
+    border-image-repeat: repeat;
+  }
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    
+}
 
 .container {
     color: purple;
     font-family: URW Chancery L, cursive;
 }
 
-
+.profile {
+    text-align: center;
+}
 
 .me { display: block; 
     margin-left: auto; 
