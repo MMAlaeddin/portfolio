@@ -5,6 +5,10 @@ body {
     background-size: cover;
 }
 
+.jumbotron {
+    background-image: url('../img/black.jpeg');
+}
+
 .container {
 
     color: white;
@@ -25,6 +29,7 @@ body {
 .name {
     text-align: center;
 }
+
 
 h3 {
     text-align: center;
@@ -53,8 +58,7 @@ h3 {
 }
 
 .icons {
-    text-align: center;
-    margin-top: 5%;
+    float: left;
 }
 
 .banner {
@@ -67,7 +71,7 @@ h3 {
 }
 
 .quotes {
-    margin-top: 50%;
+    margin-top: 20%;
 }
 
 .fbigli {
@@ -79,3 +83,4 @@ h3 {
     float: right;
     margin-top: 5%;
 }
+
