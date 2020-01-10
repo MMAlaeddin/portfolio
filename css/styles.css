@@ -1,9 +1,12 @@
-.me {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
+body {
+    background-image: url('img/pdx.jpeg');
+}
+
+.me { display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
 .name {
     text-align: center;
 }
@@ -18,7 +21,16 @@ h3 {
 }
 
 .social {
-    margin-top: 20%;
+    margin-top: 30%;
     text-align: center;
     font-family: 'Courgette', cursive;
+}
+
+.media {
+    text-align: center;
+}
+
+.icons {
+    text-align: center;
+    margin-top: 15%;
 }
