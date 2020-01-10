@@ -1,13 +1,14 @@
 body {
-    background-image: url('../img/wall3.jpeg');
+    background-image: url('../img/black.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .container {
-    color: purple;
-    font-family: URW Chancery L, cursive;
+
+    color: white;
+    font-family: American Typewriter, serif;
 }
 
 .profile {
@@ -40,10 +41,11 @@ h3 {
 
 .social {
     margin: 12px;
-    border: 5px solid lightsalmon;
+    border: 5px solid blue;
     padding: 4px;
     text-align: center;
-    font-family: 'Courgette', cursive;
+    color: white;
+    font-family: American Typewriter, serif;
 }
 
 .media {
@@ -71,4 +73,9 @@ h3 {
 .fbigli {
     margin-top: 30%;
     margin-left: 25%;
+}
+
+.copy {
+    float: right;
+    margin-top: 5%;
 }
