@@ -23,6 +23,7 @@ _No known bugs._
 
 Mariam Alaeddin
 maralaeddin@gmail.com
+https://mmalaeddin.github.io/portfolio/
 
 ## Technologies Used
 
